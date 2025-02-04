@@ -6,5 +6,7 @@ const date=moment().format();
 const data={
   date:date,
 };
-jsonfile.writefile(path,data);
-simpleGit().add([path]).commit(date,{'--date':date}).push();
+jsonfile.writefile(path,data,()=>{
+  simpleGit().add([path]).commit(date,{'--date':date}).push();
+});
+
