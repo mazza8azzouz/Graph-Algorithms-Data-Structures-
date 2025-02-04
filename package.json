@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/mazza8azzouz/Graph-Algorithms-Data-Structures-.git"
   },
   "keywords": [],
