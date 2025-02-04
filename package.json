@@ -1,8 +1,21 @@
-{"name":"Graph-Algorithms-Data-Structures-",
-  "version":"1.0.0",
-  "main":"index.js",
-  "type":"module",
-  "script":{
-    "text":"echo\"Error: no test specified\" && exit 1"
+{
+  "name": "graph-algorithms-data-structures-",
+  "version": "1.0.0",
+  "description": "This repository contains a collection of graph algorithms and data structures implemented in multiple programming languages. The goal is to provide efficient and easy-to-understand implementations of classic graph algorithms like Depth-First Search (DFS), Breadth-First Search (BFS), Dijkstra's algorithm, and more.\r # Key Features:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords":[],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazza8azzouz/Graph-Algorithms-Data-Structures-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazza8azzouz/Graph-Algorithms-Data-Structures-/issues"
+  },
+  "homepage": "https://github.com/mazza8azzouz/Graph-Algorithms-Data-Structures-#readme"
+}
+
